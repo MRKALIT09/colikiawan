@@ -1,6 +1,6 @@
 #!/system/xbin/bash
-#Jangan di recode dong ster 
-#usaha kalo gk bisa nanya 
+#Anak Tai Datang 
+#Ngapa? MAU Recode ? Lawak Lu Anjeng
 
 
 blue='\033[34;1m'
@@ -11,31 +11,31 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 
-echo $red "Tobat Goblok Jangan Coli Mulu :V"
+echo $red "Tobat Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
-echo $blue "Tobat Goblok Jangan Coli Mulu :V"
+echo $blue "Tobat Tolol Jangan Kokanv Terus :V"
 sleep 1
 clear
-echo $green "Tobat Goblok Jangan Coli Mulu :V"
+echo $green "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
-echo $red "Tobat Goblok Jangan Coli Mulu :V"
+echo $red "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 
 clear
-echo $blue "Tobat Goblok Jangan Coli Mulu :V"
+echo $blue "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
-echo $green "Tobat Goblok Jangan Coli Mulu :V"
+echo $green "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
-echo $red "Tobat Goblok Jangan Coli Mulu :V"
+echo $red "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
-echo $blue "Tobat Goblok Jangan Coli Mulu :V"
+echo $blue "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
-echo $green "Tobat Goblok Jangan Coli Mulu :V"
+echo $green "Tobat  Tolol Jangan Kokang Terus :V"
 sleep 1
 clear
 
@@ -54,8 +54,8 @@ echo "\033[1;31m]
       {_-|-_} 
       {_-|-_} 
 +=====%%@ @%%=============================+
-+ coded by : InYourG00D                   +
-+ Team : LNX#CREW S.T.C BUFT              +
++ Author.  : InYourG00D                   +
++ Team : ANOYMOUS ALL INDO.               +
 +=========================================+
   ^...^                      ^...^
  <_* *_>Tools Install Bokep <_* *_> 
@@ -81,27 +81,27 @@ read -p "[>>" gmt
 if [ $gmt = 1 ]
 then 
 clear
-echo "Wait Bro"
+echo "Sabar Ngab"
 cd menu
 mv -f VID-20190311-WA0029.mp4 /sdcard
-echo $red "DoneBosQ"
+echo $red "DoneYaTol"
 echo $green "Silahkan Cek Di Folder/file"
 fi
 
 if [ $gmt = 2 ]
 then 
 clear
-echo "Wait Bro"
+echo "Sabar Ngab"
 cd menu
 mv -f VID-20190311-WA0103.mp4 /sdcard
-echo $red "DoneBosQ"
+echo $red "Done Yatol"
 echo $green "Silahkan Cek Di Folder/file"
 fi
 
 if [ $gmt = 3 ]
 then 
 clear
-echo "Wait Bro"
+echo "Sabar Ngab"
 cd menu
 mv -f VID-20190311-WA0108.mp4 /sdcard
 echo $red "DoneBosQ"
