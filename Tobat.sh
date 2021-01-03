@@ -142,6 +142,6 @@ fi
 if [ $gmt = 00 ]
 then 
 clear 
-echo "Bye Happy Cloy"|lolcat
+echo "Batang Tegang Hati Senang"|lolcat
 exit
 fi
